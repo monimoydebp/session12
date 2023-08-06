@@ -7,8 +7,8 @@ Explanation
 This Package trains a Deep Neural Network on CIFAR data using a Custom ResNet model utilizing Pytorch Lighning
 
     
-models/resnet18.py
-------------------
+models/CustomResNet.py
+----------------------
 
 The Custom Resnet18 Script is defined here 
 
